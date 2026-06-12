@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Hassan   <br>I like building fast things and understanding how they work under the hood.<br><br>Mines Paris – PSL engineering student exploring:<br>- Rust & systems programming<br>- Parallelism, performance, and low-level optimizations<br>- AI / ML and practical architectures<br><br>I enjoy turning complex ideas into simple, working systems.
+Hey, I’m Hassan   <br>I like building fast things and understanding how they work under the hood.<br>Engineering student exploring:<br>- Rust & systems programming<br>- Parallelism, performance, and low-level optimizations<br>- AI / ML and practical architectures<br><br>I enjoy turning complex ideas into simple, working systems.
 
 
 ## 🌐 Socials:
