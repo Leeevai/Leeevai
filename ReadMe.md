@@ -1,4 +1,4 @@
-Hey, I’m Hassan   <br>I like building fast things from scratch<br>
+Hey, I’m Hassan   <br>I have no special talent, except building anything from scratch
 
 
 ## 🌐 Socials:
