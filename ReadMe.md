@@ -1,4 +1,4 @@
-Hey, I’m Hassan   <br>I have no special talent, except building anything from scratch
+Hey, I’m Hassan   <br>I have no special talent, just passionately curious.
 
 
 ## 🌐 Socials:
